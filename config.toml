@@ -1,4 +1,4 @@
-baseurl                 = "http://lockelife.com/news/"
+baseurl                 = "https://itsalocke.com/news/"
 languageCode            = "en-gb"
 title                   = "Locke Data News"
 theme                   = "hugo-lockedata-blog"
@@ -16,12 +16,12 @@ theme                   = "hugo-lockedata-blog"
 [[languages.en.menu.prepend]]
     name                = "Locke Data"
     weight              = 1
-    url                 = "http://lockelife.com"
+    url                 = "https://itsalocke.com"
 
 [[languages.en.menu.prepend]]
     name                = "News"
     weight              = 2
-    url                 = "http://lockelife.com/news/"
+    url                 = "https://itsalocke.com/news/"
 
 # The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
   # Footer
@@ -46,7 +46,7 @@ theme                   = "hugo-lockedata-blog"
   [[languages.en.menu.footer]]
     weight = 10
     name = "Legalise and stuff"
-    url = "http://lockelife.com/#footer"
+    url = "https://itsalocke.com/#footer"
 [params]
     keywords            = ["data science", "consultancy", "predictive analytics", "advanced analytics"]
     description         = "Locke Data helps organisations along their data science journey. We can help you start yours."
