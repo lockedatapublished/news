@@ -46,10 +46,10 @@ theme                   = "hugo-lockedata-blog"
   [[languages.en.menu.footer]]
     weight = 10
     name = "Legalise and stuff"
-    url = "https://itsalocke.com/#footer"
+    url = "https://itsalocke.com/policies"
 [params]
     keywords            = ["data science", "consultancy", "predictive analytics", "advanced analytics"]
-    description         = "Locke Data helps organisations along their data science journey. We can help you start yours."
+    description         = "Locke Data helps organisations get started with data science. Get the latest news about Locke Data."
     google_analytics    = "UA-58415537-1"
     google_adsense      = "ca-pub-XXXXXX"
     disqus              = "itsalocke"
