@@ -17,7 +17,7 @@ tags:
 
 Coming up in the New Year, I'm doing the following training events:
 
-- [Data Science Fundamentals in R](https://brentozar.com/product/data-science-fundamentals-r-live-2-days/?utm_source=lockedata&utm_medium=lockedata&utm_campaign=lockedata) - a two day remote course getting you up to speed with R, some basic data science, and getting R into production with SQL Server. Get hands-on from the comfort of your own office chair / home sofa. Use this discount code for $[X] off: [XXXX]. [More info](#data-science-fundamentals-in-r)
+- [Data Science Fundamentals in R](https://brentozar.com/product/data-science-fundamentals-r-live-2-days/?utm_source=lockedata&utm_medium=lockedata&utm_campaign=lockedata) - a two day remote course getting you up to speed with R, some basic data science, and getting R into production with SQL Server. Get hands-on from the comfort of your own office chair / home sofa. Use this discount code for 50% off: DataScience50 . [More info](#data-science-fundamentals-in-r)
 - [Tech Outbound Data Science Track](http://techoutbound.com) - join a Caribbean cruise with a difference. Learn from experts all about data science, databases, and more. Bring your significant other, have a great time, and learn amazing stuff. Use this discount code for $100 off: BFFSL . [More info](#tech-outbound)
 - [SQL Bits: Advanced R Programming](https://sqlbits.com/information/event17/Advanced_R_Programming/trainingdetails.aspx) - stretch your R skills by learning how to work with databases directly, integrgate other languages, use Spark, and more. USe this discount code for 5% off: SQL-45EE11 .[More info](#advanced-r-programming)
 - [Public Workshops TBD](https://lockedata.typeform.com/to/oJvIgB) - we're over in the states so I'd like to run some training. If you'd like the opportunity to get some training, fill out [this form](https://lockedata.typeform.com/to/oJvIgB) to help me settle on location and topic.
@@ -35,7 +35,7 @@ After a successful delivery in October, I'm back rocking the virtual room via [B
 
 These are two days where you can learn in a hands-on practical fashion without needing to travel. This makes it great if you work remote, live in a rural area, or have a home you just can't be away from overnight.
 
-Get a discount using code: [XXXX]
+Get a 50% discount using code: DataScience50 
 
  
 {{<btn href="https://brentozar.com/product/data-science-fundamentals-r-live-2-days/?utm_source=lockedata&utm_medium=lockedata&utm_campaign=lockedata" msg="Go to booking site">}}
